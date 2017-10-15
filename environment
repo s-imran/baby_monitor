@@ -1,1 +1,4 @@
 export DATA_PATH="data/ESC-10-master/004 - Baby cry/"
+export BACKEND="backend"
+export APP="android_app"
+export DB_PATH="./client_db.json"
